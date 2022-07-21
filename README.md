@@ -14,7 +14,7 @@
 ## **𝐌𝐚𝐭𝐢𝐚𝐬**
 ![l4FGDAx6u3hthMhgI](https://user-images.githubusercontent.com/100887441/160191308-d1436996-62d4-4638-8993-4667a20cc15b.gif)
 
-### *𝐌𝐚𝐭𝐢𝐚𝐬*
+### **𝐌𝐚𝐭𝐢𝐚𝐬**
 
 <img src="https://github-readme-stats.vercel.app/api?username=ElMatias-PY" />
 
